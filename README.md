@@ -9,3 +9,11 @@ en tu cuenta de la universidad dy espera hasta las 09:04 par refrescar la pagina
 CD: significa change decition, sirve para cambiar las horas, los dias y los deportes de la semana
 
 SD: sirve para mostrar el deporte que se reservara el dia siguiente
+
+IMPORTANTE:
+
+-debes tener firefox instalado
+
+-debes tener la suspencion automatica desactivada, o por lo menos asegurarte que tu computador no entre en suspencion mintras esta corriendo el programa
+
+-el programa aun tine bugs xd
