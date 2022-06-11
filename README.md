@@ -17,3 +17,5 @@ IMPORTANTE:
 -debes tener la suspencion automatica desactivada, o por lo menos asegurarte que tu computador no entre en suspencion mintras esta corriendo el programa
 
 -el programa aun tine bugs xd
+
+-si tines un mac, directamente no funciona xd
