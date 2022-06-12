@@ -8,14 +8,18 @@ en tu cuenta de la universidad luego espera hasta las 09:04 para refrescar la pa
 
 CD: significa change decition, sirve para cambiar las horas, los dias y los deportes de la semana
 
-SD: sirve para mostrar el deporte que se reservara el dia siguiente
+SD: sirve para mostrar el deporte que se reservara el dia siguiente.
 
 IMPORTANTE:
 
 -debes tener firefox instalado
 
--debes tener la suspencion automatica desactivada, o por lo menos asegurarte que tu computador no entre en suspencion mintras esta corriendo el programa
+-debes tener la suspencion automatica desactivada, o por lo menos asegurarte que tu computador no entre en suspencion mintras esta corriendo el programa.
 
 -el programa aun tine bugs xd
 
--si tines un mac, directamente no funciona xd
+-si tines un mac, directamente no funciona xd.
+
+-Este es un ejemplo de como se podria hacer un bot para automatizar las reservas de deportes, cualquier uso indevido de este codigo recae sobre el tercero que a decidido usarlo para dichos fines.
+
+-No se insentiva a nadie el uso de este codigo para fines personales, el objetivo de este codigo es meramente ilustrativo.
