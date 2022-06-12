@@ -1,5 +1,5 @@
 # sandia
-El projecto sandia es un ejemplo de bot para reservar depórtes, no tiene mas.
+El projecto sandia es un ejemplo de programa para automatizar la reserva de deportes en una isntitución cualquiera, no tiene mas.
 
 Hay tres comandos que se ejecutan en consola.
 
